@@ -21,7 +21,7 @@ This repository contains Docker configurations for the [VoyantServer](https://gi
 
 3. Run the Docker container:
     ```sh
-    docker run -d -p 8080:8080 voyantserver
+    docker run -d -p 8888:8888 voyantserver
     ```
 
 ## Usage
